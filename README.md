@@ -12,7 +12,7 @@ OME is an open-source programming language designed for creativity and easy lear
 ## ✨ Features
 
 - ✅ Simple and clear syntax
-- ✅ Full Arabic and English language support
+- ✅ Full English language support
 - ✅ Built-in mathematical functions
 - ✅ Advanced text processing capabilities
 - ✅ User input handling
