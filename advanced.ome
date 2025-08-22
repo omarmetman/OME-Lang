@@ -1,0 +1,31 @@
+# برنامج متقدم يظهر قدرات لغة OME
+
+# دوال رياضية
+print "=== الرياضيات ==="
+print "2^8 = " + (2 ^ 8)
+print "10 % 3 = " + (10 % 3)
+
+# عمليات مقارنة
+print "=== المقارنات ==="
+let x = 10
+let y = 20
+print "x < y: " + (x < y)
+print "x == y: " + (x == y)
+
+# إدخال من المستخدم
+print "=== الإدخال ==="
+print "ما هو عمرك؟"
+input age
+print "عمرك هو: " + age
+
+# دوال النصوص
+print "=== معالجة النصوص ==="
+let text = "Hello World"
+print "النص: " + text
+print "طول النص: " + length:text
+print "بحروف كبيرة: " + upper:text
+
+# تاريخ ووقت
+print "=== الوقت ==="
+let current_time = now:
+print "الوقت الحالي: " + current_time
